@@ -4,4 +4,4 @@ Este repositório contém um gráfico gerado com os dados do arquivo `gasolina.c
 
 O gráfico foi criado com Python, usando pandas, seaborn e matplotlib.
 
-![Gráfico de Preço da Gasolina](gasolina.png)
+![Gráfico de Preço da Gasolina](gasolina2.png)
